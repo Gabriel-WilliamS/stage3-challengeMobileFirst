@@ -231,6 +231,10 @@ footer {
     gap: 3.2rem;
   }
 
+  .card img {
+    max-width: 30.7rem;
+  }
+
   .card:nth-child(3),
   .card:nth-child(6) {
     display: initial;
